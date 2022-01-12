@@ -1,0 +1,15 @@
+.navbar {
+  font-family: "Times New Roman", Times, serif;
+}
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #ff4500;
+  font-family: Brush Script Std;
+}
+
+#variasi {
+  background-color: #ffdab9;
+}
+section {
+  padding-top: 5rem;
+}
